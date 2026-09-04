@@ -1,0 +1,17 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "pipe-down",
+  "description": "Force short answers from your coding agent. /0 acts & says nothing, /1 answers in one sentence, /3 in three.",
+  "owner": {
+    "name": "nricklin",
+    "url": "https://github.com/nricklin"
+  },
+  "plugins": [
+    {
+      "name": "pipe-down",
+      "description": "A verbosity sledgehammer for Claude Code: /0 silent, /1 one sentence, /3 three sentences.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

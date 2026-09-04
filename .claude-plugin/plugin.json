@@ -1,0 +1,13 @@
+{
+  "name": "pipe-down",
+  "version": "0.1.0",
+  "description": "A verbosity sledgehammer for Claude Code. /0 does the work and says nothing, /1 answers in exactly one sentence, /3 answers in at most three.",
+  "author": {
+    "name": "nricklin",
+    "url": "https://github.com/nricklin"
+  },
+  "homepage": "https://github.com/nricklin/pipe-down",
+  "repository": "https://github.com/nricklin/pipe-down",
+  "license": "MIT",
+  "keywords": ["brevity", "verbosity", "output-style", "tokens", "skills", "caveman"]
+}
